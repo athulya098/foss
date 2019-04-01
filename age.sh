@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "enter age"
+echo "enter your correct age"
 read age
 if [ $age -gt 56 ]
 then
